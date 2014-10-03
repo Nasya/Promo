@@ -1,0 +1,52 @@
+.ridebike {
+	margin-left: 10px;
+}
+#bike {
+	width: 200px;
+	height: 100px;
+}
+#bike{
+	transition:all 1s ease-in-out;
+	-webkit-transition:all 1s ease-in-out;
+	-moz-transition:all 1s ease-in-out;
+	-o-transition:all 1s ease-in-out;
+}
+
+#bike:hover {
+transform:translate(1970px, 0);
+-webkit-transform:translate(1970px, 0);
+-moz-transform:translate(1970px, 0);
+-o-transform:translate(1970px, 0);
+} 
+.textF{
+	height:640px;
+	width: 100%;
+}
+.scrl{
+
+	width:100%;
+}
+
+.main1 {
+	width:100%;
+
+
+}
+
+.wor{
+	height: 640px;
+}
+.info {
+	background: url(./pics/gauspic.jpg);
+}
+.page1{
+	height: 100%;
+	background-color: #fff;
+	margin-bottom: 640px;
+}
+#img1, #img2{
+	width: 800px;
+	height: 570px;
+	border-radius: 20px;
+
+}
